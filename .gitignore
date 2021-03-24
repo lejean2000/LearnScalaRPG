@@ -1,0 +1,8 @@
+.bloop/*
+.bsp/*
+.metals/*
+.vscode/*
+target/*
+project/*
+workspace.code-workspace
+.scalafmt.conf

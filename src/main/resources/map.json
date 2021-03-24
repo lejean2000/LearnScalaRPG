@@ -1,0 +1,27 @@
+{
+    "X0Y0": {
+        "message": "You enter a dark room and suddenly you are attacked!",
+        "monsters": [
+            {
+                "name": "Flying Dragon of Wrath",
+                "type": "FlyingDragon",
+                "level": "2"
+            },
+            {
+                "name": "Dark Gnome",
+                "type": "Gnome",
+                "level": "5"
+            },
+            {
+                "name": "Putrid Gnome",
+                "type": "Gnome",
+                "level": "5"
+            }
+        ],
+        "objects": [],
+        "exits": [
+            "X1Y0",
+            "X0Y1"
+        ]
+    }
+}
